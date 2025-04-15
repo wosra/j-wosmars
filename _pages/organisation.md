@@ -3,9 +3,9 @@ permalink: /organisation/
 title: "Organisation"
 ---
 
-Names appear divided in two groups, corresponding to the two original workshops that join efforts. 
+Names appear divided in two groups, corresponding to the two joint workshops. 
 
-**WOSRA ORGANIZERS**
+<span style="color:orange;"> **WOSRA ORGANIZERS** </span>
 
 **Shelly Bagchi** - U.S. National Institute of Standards and Technology, USA [(web)](https://www.nist.gov/people/shelly-bagchi)
 
@@ -23,7 +23,8 @@ Names appear divided in two groups, corresponding to the two original workshops 
 
 
 
-**SEMANTIC MAPS WORKSHOP ORGANIZERS**
+
+<span style="color:orange;"> **SEMANTIC MAPS WORKSHOP ORGANIZERS** </span>
 
 **Ho-Seok Ahn** - University of Auckland, New Zealand [(web)](https://sites.google.com/site/hoseokahn/)
 
