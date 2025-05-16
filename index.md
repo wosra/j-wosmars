@@ -8,7 +8,7 @@ header:
  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-International Joint Workshop on Ontologies, Semantic Maps and Autonomous Robotics Standardization (J-WOSMARS 2025) @ [RO-MAN 2025](https://www.ro-man2025.org/), **August 25-29**, Enindhoven, the Netherlands
+International Joint Workshop on Ontologies, Semantic Maps and Autonomous Robotics Standardization (J-WOSMARS 2025) @ [RO-MAN 2025](https://www.ro-man2025.org/), **August 25-29**, Enindhoven, the Netherlands.
 
 This workshop is a joint workshop of the 4th edition of the Workshop on Ontologies and Standards for Robotics and Automation [WOSRA 2025](https://wosra.github.io/wosra/) and the 1st edition of the Workshop on Standardization of Semantic Maps for Autonomous Robots. 
 
@@ -27,15 +27,15 @@ Established and shared vocabularies, semantic maps and practices play a relevant
 
 **IMPORTANT DATES**
 
-- Submission deadline: **TBD** 
-- Notification: **TBD**
-- Camera ready: **TBD** (details on 'Accepted papers' page)
+- Submission deadline: **June 15** 
+- Notification: **July 1**
+- Camera ready: **August 1** (details on 'Accepted papers' page)
 - Workshop: **TBD**
 
 
 **CALL FOR PAPERS**
 
-Participants are invited to submit extended abstract papers of 2+n pages (n pages for references), or short papers of 4+n pages (IEEE format) for poster presentation in person at RO-MAN in Eindhoven. Contributions shall be submitted through the EasyChair conference system. Extended abstracts shall focus on insights on new or ongoing projects on ontologies. The goal is to foster engaging technical and scientific discussions among researchers and cultivate new collaborations. Short papers shall discuss previous or on-going research, preliminary results, use cases. The aim is to disseminate to the community research works but also encourage fruitful discussions on open problems and novel ideas.
+Participants are invited to submit extended abstract papers of 2+n pages (n pages for references), or short papers of 4+n pages (IEEE format) for poster presentation in person at RO-MAN in Eindhoven. Contributions shall be submitted through the EasyChair conference system ((submission link)[https://easychair.org/conferences?conf=jwosmars2025]). Extended abstracts shall focus on insights on new or ongoing projects on ontologies. The goal is to foster engaging technical and scientific discussions among researchers and cultivate new collaborations. Short papers shall discuss previous or on-going research, preliminary results, use cases. The aim is to disseminate to the community research works but also encourage fruitful discussions on open problems and novel ideas.
 
 All papers will be peer-reviewed (single-blind) and published on our website with the permission of authors. Submissions shall focus on subjects including but not limited to the following topics:
 
