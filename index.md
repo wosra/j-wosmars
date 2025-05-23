@@ -8,7 +8,7 @@ header:
  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-International Joint Workshop on Ontologies, Semantic Maps and Autonomous Robotics Standardization (J-WOSMARS 2025) @ [RO-MAN 2025](https://www.ro-man2025.org/), **August 25-29**, Enindhoven, the Netherlands.
+International Joint Workshop on Ontologies, Semantic Maps and Autonomous Robotics Standardization (J-WOSMARS 2025) @ [RO-MAN 2025](https://www.ro-man2025.org/), **August 29**, Enindhoven, the Netherlands.
 
 This workshop is a joint workshop of the 4th edition of the Workshop on Ontologies and Standards for Robotics and Automation [WOSRA 2025](https://wosra.github.io/wosra/) and the 1st edition of the Workshop on Standardization of Semantic Maps for Autonomous Robots. 
 
@@ -30,7 +30,7 @@ Established and shared vocabularies, semantic maps and practices play a relevant
 - Submission deadline: **June 15** 
 - Notification: **July 1**
 - Camera ready: **August 1** (details on 'Accepted papers' page)
-- Workshop: **TBD**
+- Workshop: **August 29**
 
 
 **CALL FOR PAPERS**
