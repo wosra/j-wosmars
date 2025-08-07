@@ -22,7 +22,7 @@ title: "Programme"
 *(Title to be decided)*
 
 - **[Talk 5] Filippo Cavallo** (Università degli Studi di Firenze, Italy)
-Deploying Internet of Robotic Things in active and healthy ageing pilots.* 
+*Deploying Internet of Robotic Things in active and healthy ageing pilots.* 
 
 
 **Invited speakers for Session II**
