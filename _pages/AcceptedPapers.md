@@ -3,37 +3,25 @@ permalink: /papers/
 title: "Accepted papers"
 ---
 
-<!--
+
 
 <span style="color:red;"> **[NEWS]** </span>
-Papers and extended abstracts will be presented in person at ICRA in Yokohama via a poster to be displayed during the dedicated posters session. Authors are also invited to prepare an optional single slide for a one minute spotlight presentation of their work. Please, send the slide to Paulo (paulo.goncalves@ipcb.pt), who will be chair of the workshop, or bring it in a USB drive. Make sure that your slide is on the workshop's computer before the spotlight presentations. The slide will serve to capture the attention of the workshop's attendees right before the poster sessions (coffee breaks), but you can also just introduce yourself and indicate the title and topic of your article without the slide. Depending on the availability of space to hang on the posters, authors might discuss them for one or the two coffe breaks (hopefully the second case). We recommend to print the posters in Din A1 or A0. 
+Papers and extended abstracts will be presented in person at RO-MAN in Eindhoven via presentation, optionally, posters may be displayed during the coffee breaks. Authors are invited to prepare a **5-7 minute** presentation of their work. Please, send the slide to Paulo (aolivares@iri.upc.edu), who will be chairing of the workshop, or bring it in a USB drive. Make sure that your slide is on the workshop's computer before the spotlight presentations.  
 
+<!-- 
 <span style="color:red;"> **[NEWS]** </span>
 Authors will have the opportunity to resubmit their works once the workshop has finished, so that the final version to be included in the proceedings can benefit from the workshop's discussion. 
-
+-->
 
 
 **PAPERS**
 
-_**Extended Abstract on "Knowledge-based Execution Configuration of Behavior Trees".**_ Oriol Ruiz-Celada, Jan Rosell and Raul Suárez
+_**Toward Semantic Interoperability in Personal Service Robotics through Task, Action, and Environment Modeling.**_ Margherita Martorana and Ilaria Tiddi
 
-_**Towards Using Multiple Iterated, Reproduced, and Replicated Experiments with Robots (MIRRER) for Evaluation and Benchmarking.**_ Adam Norton and Brian Flynn
+_**Exploring Ontology-based Ethical Reasoning for Social Service Robots in Older Adults Care.**_ António Alves and Paulo Gonçalves
 
-_**Integrating Quantized LLMs into Robotics Systems as Edge AI to Leverage their Natural Language Processing Capabilities.**_ Miguel Á. González-Santamarta, Francisco J Rodríguez Lera, David Sobrín Hidalgo, Ángel Manuel Guerrero-Higueras and Vicente Matellan
+_**The Need for the Multiple Robots Ontology: A Backbone for Collaborative Multi-Agent Systems.**_ Alberto Olivares-Alarcos, Edison Pignaton De Freitas, Joanna Olszewska, Veera Ragavan Sampath Kumar, Amelie Gyrard, Syed Ashque Md Khaled, Maki Habib, Maksym Figat, Abdelghani Chibani, João Quintas, Howard Li and Paulo J.S. Gonçalves
 
-_**Domain Ontology to Provide Flexible Robotic Systems in Internal Logistics.**_ Rodrigo Bernardo, João Sousa and Paulo Goncalves
-
-_**Symbolic Graph Inference for Compound Scene Understanding.**_ Fnu Aryan, Simon Stepputtis, Sarthak Bhagat, Joseph Campbell, Kwonjoon Lee, Hossein Nourkhiz Mahjoub and Katia Sycara
-
-_**Towards an Ontology-enabled Digital Thread for Robotic Knowledge Discovery in Life Sciences.**_ Dennis Knobbe and Sami Haddadin
-
-_**Mission-Oriented Ontology for Small Unmanned Aerial Systems for Disasters.**_ Robin Murphy, Justin Adams and David Merrick
-
-_**Towards Ontology-based Handling of Uncertainties in Robotic Assembly.**_ Dominik Mittel, Alexander Perzylo, Ingmar Kessler and Junsheng Ding
-
-_**Ontological Adaptations to a Knowledge Service for Underwater Robot Mission Explainability.**_ Jeremy Coffelt, Peter Kampmann and Michael Beetz
-
--->
 
 
 
