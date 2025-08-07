@@ -12,13 +12,14 @@ title: "Programme"
 - **[Talk 1] Ho Seok Ahn** (The University of Auckland, New Zealand)
 *Orchard harvest robot system - Real-world application*
 
-- **[Talk 2] Alessandro Umbrico** (Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy)
+- **[Talk 2] Alessandro Umbrico** (Institute of Cognitive Sciences and Technologies (CNR), Italy)
+
 *Context-Aware Planning: Bridging Ontological Knowledge and Autonomous Actions*
 
 - **[Talk 3] Jiyong Oh** (ETRI, South Korea)
 *Revolutionizing Human-Robot Interaction: User-Centric Teaching Pendant for Semantic Map-based Mobile Manipulation*
 
-- **[Talk 4] Ilaria Tiddi** (Knowledge In AI group, Vrije Universiteit Amsterdam, The Netherlands)
+- **[Talk 4] Ilaria Tiddi** (Knowledge in AI, Vrije Universiteit Amsterdam, The Netherlands)
 *(Title to be decided)*
 
 - **[Talk 5] Filippo Cavallo** (Università degli Studi di Firenze, Italy)
@@ -27,7 +28,7 @@ title: "Programme"
 
 **Invited speakers for Session II**
 
-- **[Talk 6] Michaela Kümpel** (Institute for Artificial Intelligence, University of Bremen, Germany)
+- **[Talk 6] Michaela Kümpel** (IAI, University of Bremen, Germany)
 *Standardising environment data with ontologies: high pain, high gain?*
 
 - **[Talk 7] Silvia Rossi** (Università degli Studi di Napoli Federico II, Italy)
