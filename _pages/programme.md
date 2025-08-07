@@ -13,7 +13,6 @@ title: "Programme"
 *Orchard harvest robot system - Real-world application*
 
 - **[Talk 2] Alessandro Umbrico** (Institute of Cognitive Sciences and Technologies (CNR), Italy)
-
 *Context-Aware Planning: Bridging Ontological Knowledge and Autonomous Actions*
 
 - **[Talk 3] Jiyong Oh** (ETRI, South Korea)
