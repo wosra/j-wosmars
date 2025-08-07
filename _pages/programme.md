@@ -2,35 +2,53 @@
 permalink: /programme/
 title: "Programme"
 ---
-<!-- 
-**Location:** xxx, Eindhoven, the Netherlands
+
+**Location:** Campus of Eindhoven University of Technology (Auditorium building), Eindhoven, the Netherlands
 
 
 
 **Invited speakers for Session I**
 
-- **[Talk 1] *What is causation?***, by Riichiro Mizoguchi, Japan Advanced Institute of Science and Technology, Japan
-- **[Talk 2] *Working Towards Standardized Robotic Task Planning: An Applications Guide (IEEE RAS 1872.1.1***, by Stephen Balakirsky, Georgia Tech Research Institute (GTRI), USA 
-- **[Talk 3] *Shaping Cognitive Control through Ontology-based Reasoning***, by Alessandro Umbrico, Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy
-- **[Talk 4] *IEEE standard development and awards***, by Howard Li, University of New Brunswick, New Brunswick, Canada 
+- **[Talk 1] Ho Seok Ahn** (The University of Auckland, New Zealand)
+*Orchard harvest robot system - Real-world application*
+
+- **[Talk 2] Alessandro Umbrico** (Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy)
+*Context-Aware Planning: Bridging Ontological Knowledge and Autonomous Actions*
+
+- **[Talk 3] Jiyong Oh** (ETRI, South Korea)
+*Revolutionizing Human-Robot Interaction: User-Centric Teaching Pendant for Semantic Map-based Mobile Manipulation*
+
+- **[Talk 4] Ilaria Tiddi** (Knowledge In AI group, Vrije Universiteit Amsterdam, The Netherlands)
+*(Title to be decided)*
+
+- **[Talk 5] Filippo Cavallo** (Università degli Studi di Firenze, Italy)
+Deploying Internet of Robotic Things in active and healthy ageing pilots.* 
+
 
 **Invited speakers for Session II**
 
+- **[Talk 6] Michaela Kümpel** (Institute for Artificial Intelligence, University of Bremen, Germany)
+*Standardising environment data with ontologies: high pain, high gain?*
 
-- **[Talk 5] *Title to be decided***, by Michael Beetz, Institute for Artificial Intelligence, University of Bremen, Germany 
-- **[Talk 6] *Robotic Service Ontology (RoSO): Standardization Activities in Object Management Group***, by Koji Kamei, NTT Communication Science Laboratories, Japan 
-- **[Talk 7] *Metrics and Standards for Human Robot Interaction and Collaborative Robotics***, by Megan Zimmerman, National Institute of Standards and Technology (NIST), USA
-- **[Talk 8] *Bridging the AI Application Gap in Industrial Robotics with Ontologies and Standards***, by Benjamin Alt, Artiminds, Germany 
+- **[Talk 7] Silvia Rossi** (Università degli Studi di Napoli Federico II, Italy)
+*Personalization and Adaptation in HRI: what knowledge is required?*
+
+- **[Talk 8] Tomasz Piotr Kucner** (Aalto University, Finland)
+*Understanding the crowd, human awareness for multi-robot task allocation [Online]*
+
+- **[Talk 9] Daeun Song** (George Mason University, USA)
+*Leveraging Semantic Information for Social Robot Navigation [Online]*
+
 
  
 
 **Tentative agenda**
 
-Note that time is in the local time zone (Japan). 
+Note that time is in the local time zone (The Netherlands). 
 
 <img title="" alt="" src="./../images/agenda.png"> 
 
--->
+
 
 
 
