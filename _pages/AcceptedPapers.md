@@ -6,7 +6,7 @@ title: "Accepted papers"
 
 
 <span style="color:red;"> **[NEWS]** </span>
-Papers and extended abstracts will be presented in person at RO-MAN in Eindhoven via presentation, optionally, posters may be displayed during the coffee breaks. Authors are invited to prepare a **5-7 minute** presentation of their work. Please, send the slide to Paulo (aolivares@iri.upc.edu), who will be chairing of the workshop, or bring it in a USB drive. Make sure that your slide is on the workshop's computer before the spotlight presentations.  
+Papers and extended abstracts will be presented in person at RO-MAN in Eindhoven via presentation, optionally, posters may be displayed during the coffee breaks. Presentations will last 10 minutes including questions, we recommend to prepare **7-8 minutes** presentations. Please, send the slides to Alberto Olivares-Alarcos (aolivares[at]iri[dot]upc[dot]edu), who will be chairing of the workshop, or bring it in a USB drive. Make sure that your slides are on the workshop's computer before your spotlight presentations.  
 
 <!-- 
 <span style="color:red;"> **[NEWS]** </span>
