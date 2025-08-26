@@ -3,7 +3,7 @@ permalink: /programme/
 title: "Programme"
 ---
 
-**Location:** Campus of Eindhoven University of Technology (Auditorium building), Eindhoven, the Netherlands
+**Location:** Campus of Eindhoven University of Technology (Atlas building), Eindhoven, the Netherlands
 
 
 
