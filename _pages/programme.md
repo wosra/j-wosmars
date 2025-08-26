@@ -40,6 +40,13 @@ title: "Programme"
 *Leveraging Semantic Information for Social Robot Navigation [Online]*
 
 
+**Panelists**
+
+- **Dr. Joanna Olszewska** (University of the West of Scotland)
+- **Prof. Jaeho Lee** (University of Seoul)
+- **Prof. Tae-Yong Kuc** (Sung Kyun Kwan University)
+- **Dr. DongKi Noh** (LG Electronics Inc)
+
  
 
 **Tentative agenda**
