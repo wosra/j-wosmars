@@ -13,7 +13,7 @@ International Joint Workshop on Ontologies, Semantic Maps and Autonomous Robotic
 This workshop is a joint workshop of the 4th edition of the Workshop on Ontologies and Standards for Robotics and Automation [WOSRA 2025](https://wosra.github.io/wosra/) and the 1st edition of the Workshop on Standardization of Semantic Maps for Autonomous Robots. 
 
 
-<!-- **Location:** XXX, Enindhoven, the Netherlands -->
+**Location:** Campus of Eindhoven University of Technology ***(Atlas building, Room 2.215)***, Eindhoven, the Netherlands 
 
 
 
