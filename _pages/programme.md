@@ -19,7 +19,7 @@ title: "Programme"
 *Revolutionizing Human-Robot Interaction: User-Centric Teaching Pendant for Semantic Map-based Mobile Manipulation*
 
 - **[Talk 4] Ilaria Tiddi** (Knowledge in AI, Vrije Universiteit Amsterdam, The Netherlands)
-*(Title to be decided)*
+*Enabling Embodied Hybrid Intelligence with Symbolic AI*
 
 - **[Talk 5] Filippo Cavallo** (Università degli Studi di Firenze, Italy)
 *Deploying Internet of Robotic Things in active and healthy ageing pilots.* 
