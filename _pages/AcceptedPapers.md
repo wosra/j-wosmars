@@ -4,16 +4,18 @@ title: "Accepted papers"
 ---
 
 
-
+<!-- 
 <span style="color:red;"> **[NEWS]** </span>
 Papers and extended abstracts will be presented in person at RO-MAN in Eindhoven via presentation, optionally, posters may be displayed during the coffee breaks. Presentations will last 10 minutes including questions, we recommend to prepare **7-8 minutes** presentations. Please, send the slides to Alberto Olivares-Alarcos (aolivares[at]iri[dot]upc[dot]edu), who will be chairing of the workshop, or bring it in a USB drive. Make sure that your slides are on the workshop's computer before your spotlight presentations.  
+-->
+
 
 <!-- 
 <span style="color:red;"> **[NEWS]** </span>
 Authors will have the opportunity to resubmit their works once the workshop has finished, so that the final version to be included in the proceedings can benefit from the workshop's discussion. 
 -->
 
-
+<!-- 
 **PAPERS**
 
 _**Toward Semantic Interoperability in Personal Service Robotics through Task, Action, and Environment Modeling.**_ Margherita Martorana and Ilaria Tiddi
@@ -21,7 +23,7 @@ _**Toward Semantic Interoperability in Personal Service Robotics through Task, A
 _**Exploring Ontology-based Ethical Reasoning for Social Service Robots in Older Adults Care.**_ António Alves and Paulo Gonçalves
 
 _**The Need for the Multiple Robots Ontology: A Backbone for Collaborative Multi-Agent Systems.**_ Alberto Olivares-Alarcos, Edison Pignaton De Freitas, Joanna Olszewska, Veera Ragavan Sampath Kumar, Amelie Gyrard, Syed Ashque Md Khaled, Maki Habib, Maksym Figat, Abdelghani Chibani, João Quintas, Howard Li and Paulo J.S. Gonçalves
-
+-->
 
 
 

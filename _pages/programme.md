@@ -3,10 +3,10 @@ permalink: /programme/
 title: "Programme"
 ---
 
-**Location:** Campus of Eindhoven University of Technology ***(Atlas building, Room 2.215)***, Eindhoven, the Netherlands
+**Location:** Vienna Congress & Convention Center in Vienna, Austria [info](https://2026.ieee-icra.org/attend/venue-conference-center/) 
 
 
-
+<!--
 **Invited speakers for Session I**
 
 - **[Talk 1] Ho Seok Ahn** (The University of Auckland, New Zealand)
@@ -57,7 +57,7 @@ title: "Programme"
 Note that time is in the local time zone (The Netherlands). 
 
 <img title="" alt="" src="./../images/agenda.png"> 
-
+-->
 
 
 

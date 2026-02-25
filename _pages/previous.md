@@ -8,3 +8,5 @@ title: "Previous editions"
 2nd WOSRA edition at ICRA 2023, London, United Kingndom [(website)](https://wosra.github.io/wosra2023/)
 
 3rd WOSRA edition at ICRA 2024, Yokohama, Japan [(website)](https://wosra.github.io/wosra2024/)
+
+1st J-WOSMARS edition at RO-MAN 2025, Eindhoven, the Netherlands [(website)](https://wosra.github.io/j-wosmars2025/)
