@@ -10,11 +10,10 @@ header:
 
 International Joint Workshop on Ontologies, Semantic Maps and Autonomous Robotics Standardization (J-WOSMARS 2026) @ [ICRA 2026](https://2026.ieee-icra.org/), **June 1**, Vienna, Austria.
 
-This workshop is a joint workshop of the Workshop on Ontologies and Standards for Robotics and Automation [WOSRA](https://wosra.github.io/wosra/) and the Workshop on Standardization of Semantic Maps for Autonomous Robots. 
+This workshop is a joint workshop that has evolved from the Workshop on Ontologies and Standards for Robotics and Automation [WOSRA](https://wosra.github.io/wosra/) and the Workshop on Standardization of Semantic Maps for Autonomous Robots. 
 
 
-**Location:** Campus of Eindhoven University of Technology ***(Atlas building, Room 2.215)***, Eindhoven, the Netherlands 
-
+**Location:** Vienna Congress & Convention Center in Vienna, Austria [(info)](https://2026.ieee-icra.org/attend/venue-conference-center/) 
 
 
 **SCOPE**
