@@ -13,19 +13,19 @@ title: "Programme"
 - **[Talk 1] Karinne Ramírez-Amaro**, Chalmers University of Technology, Sweden  
 *Transparent Robot Decision-Making with Interpretable & Explainable Methods*
 
-- **[Talk 2] Minsu Jang**, Electronics and Telecommunications Research Institute, South Korea
+- **[Talk 2] Minsu Jang**, Electronics and Telecommunications Research Institute, South Korea  
 *Knowledge engineering for robots in the era of foundation models*
 
-- **[Talk 3] Seung-Min Baek**, LG Electronics, South Korea
+- **[Talk 3] Seung-Min Baek**, LG Electronics, South Korea  
 *Embodied AI for Humanoid Robots in Personalized Household Environments*
 
-- **[Talk 4] Chung Hyuk Park**, George Washington University, USA
+- **[Talk 4] Chung Hyuk Park**, George Washington University, USA  
 *Contextual Human Robot Interaction and Situational Awareness*
 
-- **[Talk 5] Joanna Olszewska**, University of the West of Scotland, 
+- **[Talk 5] Joanna Olszewska**, University of the West of Scotland   
 *Formalising Trustworthiness of Autonomous Systems*
 
-- **[Talk 6] Lorenzo Ferrini**, PAL Robotics
+- **[Talk 6] Lorenzo Ferrini**, PAL Robotics  
 *Querying the World: Bridging Physical and Symbolic Information for Interactive Robots*
 
 
