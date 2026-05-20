@@ -10,8 +10,7 @@ title: "Programme"
 **Invited speakers for Session I**
 
 
-- **[Talk 1] Karinne Ramírez-Amaro**, Chalmers University of Technology, Sweden 
-
+- **[Talk 1] Karinne Ramírez-Amaro**, Chalmers University of Technology, Sweden  
 *Transparent Robot Decision-Making with Interpretable & Explainable Methods*
 
 - **[Talk 2] Minsu Jang**, Electronics and Telecommunications Research Institute, South Korea
