@@ -6,39 +6,44 @@ title: "Programme"
 **Location:** Vienna Congress & Convention Center in Vienna, Austria [(info)](https://2026.ieee-icra.org/attend/venue-conference-center/) 
 
 
-<!--
+
 **Invited speakers for Session I**
 
-- **[Talk 1] Ho Seok Ahn** (The University of Auckland, New Zealand)
-*Orchard harvest robot system - Real-world application*
 
-- **[Talk 2] Alessandro Umbrico** (Institute of Cognitive Sciences and Technologies (CNR), Italy)
-*Context-Aware Planning: Bridging Ontological Knowledge and Autonomous Actions*
+- **[Talk 1] Karinne Ramírez-Amaro***, Chalmers University of Technology, Sweden 
+*Transparent Robot Decision-Making with Interpretable & Explainable Methods*
 
-- **[Talk 3] Jiyong Oh** (ETRI, South Korea)
-*Revolutionizing Human-Robot Interaction: User-Centric Teaching Pendant for Semantic Map-based Mobile Manipulation*
+- **[Talk 2] Minsu Jang**, Electronics and Telecommunications Research Institute, South Korea
+*Knowledge engineering for robots in the era of foundation models*
 
-- **[Talk 4] Ilaria Tiddi** (Knowledge in AI, Vrije Universiteit Amsterdam, The Netherlands)
-*Enabling Embodied Hybrid Intelligence with Symbolic AI*
+- **[Talk 3] Seung-Min Baek**, LG Electronics, South Korea
+*Embodied AI for Humanoid Robots in Personalized Household Environments*
 
-- **[Talk 5] Filippo Cavallo** (Università degli Studi di Firenze, Italy)
-*Deploying Internet of Robotic Things in active and healthy ageing pilots.* 
+- **[Talk 4] Chung Hyuk Park**, George Washington University, USA
+*Contextual Human Robot Interaction and Situational Awareness*
+
+- **[Talk 5] Joanna Olszewska**, University of the West of Scotland, 
+*Formalising Trustworthiness of Autonomous Systems*
+
+- **[Talk 6] Lorenzo Ferrini**, PAL Robotics
+*Querying the World: Bridging Physical and Symbolic Information for Interactive Robots*
 
 
-**Invited speakers for Session II**
 
-- **[Talk 6] Michaela Kümpel** (IAI, University of Bremen, Germany)
-*Standardising environment data with ontologies: high pain, high gain?*
 
-- **[Talk 7] Silvia Rossi** (Università degli Studi di Napoli Federico II, Italy)
-*Personalization and Adaptation in HRI: what knowledge is required?*
 
-- **[Talk 8] Tomasz Piotr Kucner** (Aalto University, Finland)
-*Understanding the crowd, human awareness for multi-robot task allocation [Online]*
+ 
 
-- **[Talk 9] Daeun Song** (George Mason University, USA)
-*Leveraging Semantic Information for Social Robot Navigation [Online]*
+**Tentative agenda**
 
+Note that time is in the local time zone (CEST). 
+
+<img title="" alt="" src="./../images/agenda.png"> 
+
+
+
+
+<!--
 
 **Panelists**
 
@@ -49,14 +54,6 @@ title: "Programme"
 - **Prof. Tae-Yong Kuc** (Sung Kyun Kwan University)
 
 - **Dr. DongKi Noh** (LG Electronics Inc)
-
- 
-
-**Tentative agenda**
-
-Note that time is in the local time zone (The Netherlands). 
-
-<img title="" alt="" src="./../images/agenda.png"> 
 -->
 
 
