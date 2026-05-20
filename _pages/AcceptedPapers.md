@@ -4,10 +4,9 @@ title: "Accepted papers"
 ---
 
 
-<!-- 
+
 <span style="color:red;"> **[NEWS]** </span>
-Papers and extended abstracts will be presented in person at RO-MAN in Eindhoven via presentation, optionally, posters may be displayed during the coffee breaks. Presentations will last 10 minutes including questions, we recommend to prepare **7-8 minutes** presentations. Please, send the slides to Alberto Olivares-Alarcos (aolivares[at]iri[dot]upc[dot]edu), who will be chairing of the workshop, or bring it in a USB drive. Make sure that your slides are on the workshop's computer before your spotlight presentations.  
--->
+Short papers and extended abstracts will be presented in person at ICRA in Vienna via presentation. Presentations will last 7-8 minutes including questions, we recommend to prepare **5 minute** presentations. Please, send the slides to Alberto Olivares-Alarcos (aolivares[at]iri[dot]upc[dot]edu), who will be one of the organizers chairing of the workshop, or bring them in a USB drive. Make sure that your slides are on the workshop's computer before your spotlight presentations. Optionally, you might use your own computer in the case you prefer it, which is may be a good option to avoid formatting issues.   
 
 
 <!-- 
@@ -15,15 +14,34 @@ Papers and extended abstracts will be presented in person at RO-MAN in Eindhoven
 Authors will have the opportunity to resubmit their works once the workshop has finished, so that the final version to be included in the proceedings can benefit from the workshop's discussion. 
 -->
 
-<!-- 
+
 **PAPERS**
 
-_**Toward Semantic Interoperability in Personal Service Robotics through Task, Action, and Environment Modeling.**_ Margherita Martorana and Ilaria Tiddi
+_**VLM-Guided Spatial Partitioning for 3DGS Localization.**_ Ba Tuan Hoang Chu and Gon Woo Kim
 
-_**Exploring Ontology-based Ethical Reasoning for Social Service Robots in Older Adults Care.**_ António Alves and Paulo Gonçalves
+_**Multi-Modal SLAM with Observability-Driven Fusion and TSDF Semantic Reconstruction**_ Narayan Longani, Ehsan Ullah Khan and Gon-Woo Kim
 
-_**The Need for the Multiple Robots Ontology: A Backbone for Collaborative Multi-Agent Systems.**_ Alberto Olivares-Alarcos, Edison Pignaton De Freitas, Joanna Olszewska, Veera Ragavan Sampath Kumar, Amelie Gyrard, Syed Ashque Md Khaled, Maki Habib, Maksym Figat, Abdelghani Chibani, João Quintas, Howard Li and Paulo J.S. Gonçalves
--->
+_**Dual-Branch Active Gaussian Reconstruction with Explicit-Implicit Uncertainty Fusion.**_ Yingzhao Li, Wujie Chen, Wei Zhang, Yanjie Liu and Lijun Zhao
+
+_**SurfelGS: Geometry-Aware Gaussian Splatting via Local Smoothness Detection and SDF Alignment.**_ Yingzhao Li, Wujie Chen, Wei Zhang, Yanjie Liu and Lijun Zhao
+
+_**Extending Ontology-Based Adaptive Behavior Trees with Context Modes and Recovery Structures.**_ Oriol Ruiz-Celada, Jan Rosell and Raúl Suárez
+
+_**TOSM-VLA: Semantic World Modeling for Role Assignment and Recovery in Neurosymbolic Bimanual Manipulation.**_ Minyoung Jeong, Gilberto Galvis Giraldo, Kyeongjin Joo and Tae-Yong Kuc
+
+_**A Systems Engineering Knowledge Ontology for Robot Self-Assessment.**_ Juri Morisse, Joris Sijs, Willeke van Vught and Carlos Hernandez Corbato
+
+_**Potentials and Challenges for Using Ontologies in a Reconfiguration Framework for Robot-Assisted Assembly Preparation.**_ Josua Hoefgen, Birgit Vogel-Heuser, Dominik Hujo-Lauer and Joseph Alterbaum
+
+_**From USD Scenes to Knowledge Graphs: Zero-Shot Ontology Grounding with LLMs.**_ Jiangtao Shuai, Zongxiong Chen, Manfred Hauswirth and Sonja Schimmler
+
+_**Towards a Foundational Ontology for Identifying and Resolving Contradictions in Dialogue-based Human-Robot Interactions.**_ Maitreyee Tewari and Michele Persiani
+
+_**Learning Compositional Symbolic Task Rules from Demonstrations with Inductive Logic Programming.**_ Oleh Borys and Karla Stepanova
+
+
+
+
 
 
 
