@@ -3,7 +3,7 @@ permalink: /programme/
 title: "Programme"
 ---
 
-**Location:** Vienna Congress & Convention Center in Vienna, Austria [(info)](https://2026.ieee-icra.org/attend/venue-conference-center/) 
+**Location:** Room Schubert 6, Vienna Congress & Convention Center in Vienna, Austria [(info)](https://vieconcenter.at/en/schubert) 
 
 
 
