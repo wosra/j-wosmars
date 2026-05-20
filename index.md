@@ -13,7 +13,7 @@ International Joint Workshop on Ontologies, Semantic Maps and Autonomous Robotic
 This workshop is a joint workshop that has evolved from the Workshop on Ontologies and Standards for Robotics and Automation [WOSRA](https://wosra.github.io/wosra/) and the Workshop on Standardization of Semantic Maps for Autonomous Robots. 
 
 
-**Location:** Vienna Congress & Convention Center in Vienna, Austria [(info)](https://2026.ieee-icra.org/attend/venue-conference-center/) 
+**Location:** Room Schubert 6, Vienna Congress & Convention Center in Vienna, Austria [(info)](https://vieconcenter.at/en/schubert) 
 
 
 **SCOPE**
@@ -62,3 +62,8 @@ All papers will be peer-reviewed (single-blind) and published on our website wit
 
 
 
+**SUPPORT**
+
+This workshop received the support of the IEEE Robotics and Automation Society Standing Committee for Standards (RAS/SC). 
+
+Furthermore, the organizers of this workshop were partially supported by the European Union under the project ARISE (HORIZON-CL4-2023-DIGITAL-EMERGING-01-101135959).
